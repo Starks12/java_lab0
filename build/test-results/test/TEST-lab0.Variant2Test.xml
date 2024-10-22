@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="lab0.Variant2Test" tests="13" skipped="0" failures="0" errors="0" timestamp="2024-10-17T18:34:12" hostname="MacBook-Pro-3.local" time="0.011">
+  <properties/>
+  <testcase name="testCountSegments" classname="lab0.Variant2Test" time="0.002"/>
+  <testcase name="testCountSegmentsInvalidInput" classname="lab0.Variant2Test" time="0.0"/>
+  <testcase name="testDescribeGrade" classname="lab0.Variant2Test" time="0.0"/>
+  <testcase name="testGenerateMatrix" classname="lab0.Variant2Test" time="0.0"/>
+  <testcase name="testGenerateMatrixInvalidDimensions" classname="lab0.Variant2Test" time="0.0"/>
+  <testcase name="testGeneratePowersOfTwo" classname="lab0.Variant2Test" time="0.001"/>
+  <testcase name="testGeneratePowersOfTwoInvalidInput" classname="lab0.Variant2Test" time="0.0"/>
+  <testcase name="testIsOdd" classname="lab0.Variant2Test" time="0.0"/>
+  <testcase name="testKilogramsToTons" classname="lab0.Variant2Test" time="0.0"/>
+  <testcase name="testKilogramsToTonsNegative" classname="lab0.Variant2Test" time="0.0"/>
+  <testcase name="testModifyNumber" classname="lab0.Variant2Test" time="0.0"/>
+  <testcase name="testPrintRange" classname="lab0.Variant2Test" time="0.002"/>
+  <testcase name="testPrintRangeInvalidInput" classname="lab0.Variant2Test" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
